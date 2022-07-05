@@ -1,0 +1,8 @@
+Project1 : How CPU works
+Project2 : Assembly & C Language(1)
+Project3 : Assembly & C Language(2)
+Project4 : Digital building block
+Project5 : Linux & Simulation Setting
+Project6 : Single Cycle CPU design
+Project7 : Single Cycle & Pipeline CPU Design
+Project8 : Single Cycle & Pipeline CPU Design
